@@ -12,7 +12,6 @@ Interactive dashboard analysis of technology usage and trends using IBM Cognos A
 ### Direct Link
 🔗 [View Cognos Dashboard]
 
-https://eu1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FFinal%2BAssignment%253A%2BPart%2BA&action=view&mode=dashboard&subView=model000001945b9d3ecf_00000000
 
 
 ### Access Requirements
