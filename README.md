@@ -7,8 +7,15 @@ Interactive dashboard analysis of technology usage and trends using IBM Cognos A
 ## Overview
 Interactive dashboard analysis of technology usage and trends using IBM Cognos Analytics. The dashboard visualizes current technology usage, future trends, and demographic information from survey data.
 
-Dashboard can be found in PDF inside the repository or via this link:
-https://tinyurl.com/dashcog 
+## Dashboard Access
+
+### Direct Link
+🔗 [View Cognos Dashboard]([https://eu1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FFinal%2BAssignment%253A%2BPart%2BA](https://eu1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FFinal%2BAssignment%253A%2BPart%2BA&action=view&mode=dashboard))
+
+### Access Requirements
+- IBM Cognos Analytics account
+- Appropriate permissions
+- Organization network access
 
 ## Dashboard Structure
 The dashboard consists of 3 main tabs:
