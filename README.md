@@ -39,4 +39,3 @@ The dashboard consists of 3 main tabs:
 ## Notes
 - Demographics tab is filtered to show only "Man" and "Woman" categories
 
-- 
