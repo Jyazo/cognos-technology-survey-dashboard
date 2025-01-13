@@ -10,7 +10,7 @@ The repository contains:
 
 ## Course Modules
 
-All coursework assignments are organized in the "5 Modules labs and assignments" folder, covering these essential data analytics competencies:
+All coursework assignments are organized in the "4 Modules labs and assignments" folder, covering these essential data analytics competencies:
 
 **Module 1 - Data Collection**  
 **Module 2 - Data Wrangling**  
