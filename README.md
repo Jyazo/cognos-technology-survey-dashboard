@@ -8,19 +8,6 @@ The repository contains:
 * An interactive dashboard built with IBM Cognos that presents key findings through dynamic visualizations
 * A detailed presentation analyzing both the dashboard insights and additional data collected through API integration from Module 1
 
-  ## Dashboard Access
-
-### Direct Link
-🔗 [View Cognos Dashboard]
-https://tinyurl.com/mrxzrxxs
-
-
-
-### Access Requirements
-- IBM Cognos Analytics account
-- Appropriate permissions
-- Organization network access
-
 ## Course Modules
 
 All coursework assignments are organized in the "4 Modules labs and assignments" folder, covering these essential data analytics competencies:
@@ -30,8 +17,17 @@ All coursework assignments are organized in the "4 Modules labs and assignments"
 **Module 3 - Exploratory Data Analysis**  
 **Module 4 - Data Visualization**
 
-## Note
+## Dashboard Access
+### Direct Link
+🔗 [View Cognos Dashboard]
+https://tinyurl.com/mrxzrxxs
 
+### Access Requirements
+- IBM Cognos Analytics account
+- Appropriate permissions
+- Organization network access
+
+## Note
 For better viewing experience, I've included high-resolution dashboard images in the "Dashboard Tabs" folder as a supplement to the PDF version.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
