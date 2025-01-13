@@ -20,7 +20,7 @@ All coursework assignments are organized in the "4 Modules labs and assignments"
 ## Dashboard Access
 ### Direct Link
 🔗 [View Cognos Dashboard]
-https://tinyurl.com/mrxzrxxs
+https://tinyurl.com/3xs45xp8
 
 ### Access Requirements
 - IBM Cognos Analytics account
