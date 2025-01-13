@@ -1,4 +1,29 @@
-# cognos-technology-survey-dashboard
+# Data Analytics and Visualization Capstone Project
+
+Welcome to my Data Analytics and Visualization Capstone Project. This comprehensive project showcases the practical skills I've developed throughout the Data Analytics Professional Certificate program, demonstrating my ability to transform raw data into meaningful insights.
+
+## Repository Contents
+
+The repository contains:
+* An interactive dashboard built with IBM Cognos that presents key findings through dynamic visualizations
+* A detailed presentation analyzing both the dashboard insights and additional data collected through API integration from Module 1
+
+## Course Modules
+
+All coursework assignments are organized in the "5 Modules labs and assignments" folder, covering these essential data analytics competencies:
+
+**Module 1 - Data Collection**  
+**Module 2 - Data Wrangling**  
+**Module 3 - Exploratory Data Analysis**  
+**Module 4 - Data Visualization**
+
+## Note
+
+For better viewing experience, I've included high-resolution dashboard images in the "Dashboard Tabs" folder as a supplement to the PDF version.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Cognos Technology Survey Dashboard
 Interactive dashboard analysis of technology usage and trends using IBM Cognos Analytics.
 
 
