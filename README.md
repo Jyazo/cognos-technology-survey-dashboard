@@ -19,7 +19,9 @@ All coursework assignments are organized in the "4 Modules labs and assignments"
 
 ## Dashboard Access
 ### Direct Link
-🔗 [View Cognos Dashboard]([URL](https://eu1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FFinal%2BAssignment%253A%2BPart%2BA%2B-%2BAhmed%2BAlyazouri&action=view&mode=dashboard))
+🔗 [View Cognos Dashboard](https://eu1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FFinal%2BAssignment%253A%2BPart%2BA%2B-%2BAhmed%2BAlyazouri&action=view&mode=dashboard)
+
+
 https://tinyurl.com/3xs45xp8
 
 ### Access Requirements
