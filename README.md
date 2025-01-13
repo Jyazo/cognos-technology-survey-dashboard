@@ -8,6 +8,19 @@ The repository contains:
 * An interactive dashboard built with IBM Cognos that presents key findings through dynamic visualizations
 * A detailed presentation analyzing both the dashboard insights and additional data collected through API integration from Module 1
 
+  ## Dashboard Access
+
+### Direct Link
+🔗 [View Cognos Dashboard]
+https://tinyurl.com/mrxzrxxs
+
+
+
+### Access Requirements
+- IBM Cognos Analytics account
+- Appropriate permissions
+- Organization network access
+
 ## Course Modules
 
 All coursework assignments are organized in the "4 Modules labs and assignments" folder, covering these essential data analytics competencies:
@@ -32,18 +45,6 @@ Interactive dashboard analysis of technology usage and trends using IBM Cognos A
 ## Overview
 Interactive dashboard analysis of technology usage and trends using IBM Cognos Analytics. The dashboard visualizes current technology usage, future trends, and demographic information from survey data.
 
-## Dashboard Access
-
-### Direct Link
-🔗 [View Cognos Dashboard]
-https://tinyurl.com/mrxzrxxs
-
-
-
-### Access Requirements
-- IBM Cognos Analytics account
-- Appropriate permissions
-- Organization network access
 
 ## Dashboard Structure
 The dashboard consists of 3 main tabs:
